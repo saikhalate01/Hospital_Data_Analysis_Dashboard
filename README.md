@@ -133,6 +133,23 @@ The dashboard helps management answer questions such as:
 
 ![Hospital Dasboard](Hospital_overview.png)
 
+---
+
+## 👤 Author
+
+**Sai Khalate**
+
+BSc Computer Science | Aspiring Data Analyst
+
+Skills: Excel | Power BI | SQL | Python
 
 ---
+
+## 📌 Disclaimer
+
+This project is created for learning and portfolio purposes. The dataset used is for demonstration/analysis purposes only.
+
+---
+
+⭐ If you found this project useful, feel free to explore the repository and give it a star!
 
