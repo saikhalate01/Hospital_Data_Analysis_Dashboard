@@ -131,28 +131,9 @@ The dashboard helps management answer questions such as:
 
 ## 🖼️ Dashboard Preview
 
-> 📸 Add your best dashboard screenshot here.
+![Hospital Dasboard]
+(Hospital_overview.png)
 
-![Hospital Dashboard](Dashboard/Hospital_Dashboard.png)
 
 ---
 
-## 📂 Project Structure
-
-```text
-Hospital_Data_Analysis_Dashboard/
-│
-├── 📊 Dashboard/
-│   ├── Hospital_Dashboard.pbix
-│   └── Hospital_Dashboard.png
-│
-├── 📁 Dataset/
-│   └── hospital_data.xlsx
-│
-├── 🧮 DAX/
-│   └── DAX_Measures.txt
-│
-├── 📑 Insights/
-│   └── Hospital_Insights.pdf
-│
-└── 📄 README.md
