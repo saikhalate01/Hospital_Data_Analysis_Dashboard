@@ -131,8 +131,7 @@ The dashboard helps management answer questions such as:
 
 ## 🖼️ Dashboard Preview
 
-![Hospital Dasboard]
-(Hospital_overview.png)
+![Hospital Dasboard](Hospital_overview.png)
 
 
 ---
